@@ -6,7 +6,7 @@ I am improving myself on data analysis.
 
 I am a cold-blooded person with excellent analytical thinking. I establish good relations with my teammates and project stakeholders.
 
-- 📫 How to reach me akbulutburak@outlook.com.tr
+📫 How to reach me akbulutburak@outlook.com.tr
 
 <!---
 burakakbulut/burakakbulut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
